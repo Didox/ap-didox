@@ -209,3 +209,8 @@
 x:-o-prefocus, .lb-overlay img {
     height: 100%;
 }
+
+footer{
+	clear: both;
+	margin-top: 10px;
+}
